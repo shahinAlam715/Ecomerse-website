@@ -5,9 +5,6 @@ A modern eCommerce web application built with React, Redux, Firebase, and Tailwi
 ## 🚀 Live Demo
 👉 https://ecomerse-website-omega.vercel.app
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 🛠️ Technologies Used
 
 - HTML5
